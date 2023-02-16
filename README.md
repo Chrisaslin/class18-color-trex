@@ -1,1 +1,2 @@
-# class18-color-trex
+# PROC18-V3ColorfullTrex
+Colorful Trex
